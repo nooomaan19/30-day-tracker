@@ -15,7 +15,7 @@
 - [x] **Meals:** Ate nutritious food on time
 - [x] **Prayers:** Completed 4time prayers
 - [x] **Mindset:** Staying positive & focused on her
-> 💌 **Note for You:** Dear billie, Ajk tmr feelings nei amr jonne, kintu jeidin ashbe oidin jene nio ei chele koto ta valobashe tmk!
+> 💌 **Note for You:** Dear billie, day-1 e amr onek koshto hcce, proti sec e sec e ami mortisi, amr buk kaptese, amr koshte buk fete jacce , kintu ami cheshtar komti raktisi nh tmk pawar.
 
 </details>
 
