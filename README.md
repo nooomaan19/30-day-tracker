@@ -9,12 +9,12 @@
 <details open>
 <summary><b>Day 1 Progress Report</b></summary>
 
-- [x] **Sleep:** Slept well & woke up on time
-- [x] **Walking:** Completed daily step goal
+- [x] **Sleep:** Slept well & woke up at 10am
+- [x] **Walking:** Completed 5120 steps
 - [x] **Gym:** Hit the gym & felt energized
 - [x] **Meals:** Ate nutritious food on time
-- [x] **Prayers:** Completed all prayers
-- [x] **Mindset:** Staying positive & consistent
+- [x] **Prayers:** Completed 4time prayers
+- [x] **Mindset:** Staying positive & focused on her 
 
 </details>
 
