@@ -10,7 +10,7 @@
 <summary><b>Day 1 Progress Report</b></summary>
 
 - [x] **Sleep:** Slept well & woke up at 10am
-- [x] **Walking:** Completed 5120 steps
+- [x] **Walking:** Completed 7315 steps
 - [x] **Gym:** Hit the gym & felt energized
 - [x] **Meals:** Ate nutritious food on time
 - [x] **Prayers:** Completed 4time prayers
