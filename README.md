@@ -6,7 +6,7 @@
 
 ### 📅 Daily Logs
 
-<details open>
+<details>
 <summary><b>Day 1 Progress Report</b></summary>
 
 - [x] **Sleep:** Slept well & woke up at 10am
@@ -19,21 +19,21 @@
 
 </details>
 
-<details>
-<summary><b>Day 2 Progress Report</b></summary>
 <details open>
 <summary><b>Day 2 Progress Report</b></summary>
 
-- [ ] **Sleep:** Woke up at 8am
-- [ ] **Walking:** Completed 6948 steps
-- [ ] **Gym:** 1hour
-- [ ] **Meals:** Ate food on time
-- [ ] **Prayers:** Completed 4time prayers
-- [ ] **Mindset:** focus on my betterment & focus on her so much
-> 💌 **Note for You:** Ajk gym korte pura ga venge jaccilo but mon e mon e ekta kothai ashtesilo je "i have to get back my billie,  for her i have to do it"
+- [x] **Sleep:** Woke up at 8am
+- [x] **Walking:** Completed 6948 steps
+- [x] **Gym:** 1hour
+- [x] **Meals:** Ate food on time
+- [x] **Prayers:** Completed 4time prayers
+- [x] **Mindset:** focus on my betterment & focus on her so much
+> 💌 **Note for You:** Ajk gym korte pura ga venge jaccilo but mon e mon e ekta kothai ashtesilo je "i have to get back my billie, for her i have to do it"
 
 </details>
 
+<details>
+<summary><b>Day 3 Progress Report</b></summary>
 
 - [ ] Log will be updated soon...
 
