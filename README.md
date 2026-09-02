@@ -19,7 +19,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 2 Progress Report</b></summary>
 
 - [x] **Sleep:** Woke up at 8am
@@ -32,8 +32,21 @@
 
 </details>
 
-<details>
+<details open>
 <summary><b>Day 3 Progress Report</b></summary>
+
+- [x] **Sleep:** woke up at 11am mybe
+- [x] **Walking:** Completed 6352 steps
+- [x] **Gym:** Workout completed 
+- [x] **Meals:** Ate nutritious food
+- [x] **Prayers:** missed some prayers
+- [x] **Mindset:** Staying strong, disciplined & focused on her
+> 💌 **Note for You:** Day 3 choltese, proti ta muhurto r shathe shathe discipline ar focus aro baracchi, karon amake tar kachhe ekjon better version hoye fire aste hobe 🌸💪
+
+</details>
+
+<details>
+<summary><b>Day 4 Progress Report</b></summary>
 
 - [ ] Log will be updated soon...
 
