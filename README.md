@@ -32,7 +32,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>Day 3 Progress Report</b></summary>
 
 - [x] **Sleep:** woke up at 11am mybe
@@ -48,7 +48,25 @@
 <details>
 <summary><b>Day 4 Progress Report</b></summary>
 
-- [ ] Log will be updated soon...
+- [ ] **Sleep:** Woke up at around 10-11:30
+- [ ] **Walking:** 6000+ steps
+- [ ] **Gym:** Workout completed
+- [ ] **Meals:** Ate food timely 
+- [ ] **Prayers:** prayed
+- [ ] **Mindset:** Staying strong, disciplined & focused
+> 💌 **Note for You:** I can't live without youuuuuu. Ahhh meeehuuuu plz comeback. 
+</details>
+
+<details>
+<summary><b>Day 5 Progress Report</b></summary>
+
+- [ ] **Sleep:** Woke up at 10:54
+- [ ] **Walking:** 8218steps
+- [ ] **Gym:** workout at home 2times
+- [ ] **Meals:** Ate food timely 
+- [ ] **Prayers:** 4 time prayed
+- [ ] **Mindset:** Staying focued to get her back. 
+> 💌 **Note for You:** Today i miss her touch, her talkitive,her love, her attention. 
 
 </details>
 
